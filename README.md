@@ -9,3 +9,7 @@ learning ML from the internet 🌎.
 places.
 
 Code is mostly `python` and `octave`
+
+##Notes
+
+### [Regression 📈](notes/regression.md)
